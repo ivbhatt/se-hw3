@@ -13,3 +13,16 @@
 "ivbhatt","10.1145/3338906.3340455","metric","BLEU",38,"10.3115/1073083.1073135",,931
 "ivbhatt","10.1145/3338906.3340455","method","word2vec",34,,"https://arxiv.org/abs/1310.4546",933
 "ivbhatt","10.1145/3338906.3340455","method","K-means",32,,"https://projecteuclid.org/proceedings/berkeley-symposium-on-mathematical-statistics-and-probability/proceedings-of-the-fifth-berkeley-symposium-on-mathematical-statistics-and/Chapter/Some-methods-for-classification-and-analysis-of-multivariate-observations/bsmsp/1200512992?tab=ChapterArticleLink",933
+"ivbhatt","10.1145/3338906.3338972","tool","Antlr",43,"10.5555/2501720",,732
+"ivbhatt","10.1145/3338906.3338972","method","HMC",39,,"https://arxiv.org/abs/1206.1901",734
+"ivbhatt","10.1145/3338906.3338972","method","NUTS",22,"10.5555/2627435.2638586",,734
+"ivbhatt","10.1145/3338906.3338972","method","ADVI",29,"10.5555/2969239.2969303",,734
+"ivbhatt","10.1145/3338906.3338972","method","SVI",27,,"https://arxiv.org/abs/1312.6114",734
+"ivbhatt","10.1145/3338906.3338972","dataset","Stan’s public repository",48,,"https://github.com/stan-dev/example-models",735
+"ivbhatt","10.1145/3338906.3338972","dataset","6 bug-revealing programs",10,"10.1145/3236024.3236057",,735
+"ivbhatt","10.1145/3338906.3338972","metric","SSR",2,"10.1145/2970276.2970361",,735
+"ivbhatt","10.1145/3338906.3338927","tool","FastTrack",20,"10.1145/1542476.1542490",,713
+"ivbhatt","10.1145/3338906.3338927","tool","Helgrind",3,,"http://valgrind.org/docs/manual/hg-manual.html",713
+"ivbhatt","10.1145/3338906.3338927","tool","Helgrind",39,"10.1145/1250734.1250746",,713
+"ivbhatt","10.1145/3338906.3338927","tool","ThreadSanitizer",49,"10.1145/1791194.1791203",,713
+"ivbhatt","10.1145/3338906.3338927","tool","UFO",23,"10.1145/3180155.3180225",,713
