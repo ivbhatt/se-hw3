@@ -1,28 +1,56 @@
-"gh_id"," paper_doi"," reuse_type"," comment"," citation_number"," reused_doi"," alt_url"," page_num"
-"ivbhatt","10.1145/3338906.3340443","method","purposive sampling",20,,"https://www.wiley.com/en-us/Real+World+Research%2C+3rd+Edition-p-9781118531501",897
-"ivbhatt","10.1145/3338906.3340443","method","embedded case study",21,"10.1002/9781118181034",,897
-"ivbhatt","10.1145/3338906.3340443","sanity_check","threats to validity",8,"10.1177/1077800405284363",,902
-"ivbhatt","10.1145/3338906.3340455","method","tree differencing approach",15,"10.1109/TSE.2007.70731",,928
-"ivbhatt","10.1145/3338906.3340455","method","heuristics are used",13,"10.1145/2642937.2642982",,928
-"ivbhatt","10.1145/3338906.3340455","tool","TensorFlow",1,"10.5281/zenodo.4724125",,930
-"ivbhatt","10.1145/3338906.3340455","method","LSTM",22,"10.1162/neco.1997.9.8.1735",,930
-"ivbhatt","10.1145/3338906.3340455","method","GNMT encoder, beam search",48,,"http://arxiv.org/abs/1609.08144",930
-"ivbhatt","10.1145/3338906.3340455","method","SGD",9,"10.5555/2999134.2999271",,930
-"ivbhatt","10.1145/3338906.3340455","method","normed Bahdanau attention",3,,"https://arxiv.org/abs/1409.0473",930
-"ivbhatt","10.1145/3338906.3340455","metric","perplexity",4,"10.5555/146680.146685",,931
-"ivbhatt","10.1145/3338906.3340455","metric","BLEU",38,"10.3115/1073083.1073135",,931
-"ivbhatt","10.1145/3338906.3340455","method","word2vec",34,,"https://arxiv.org/abs/1310.4546",933
-"ivbhatt","10.1145/3338906.3340455","method","K-means",32,,"https://projecteuclid.org/proceedings/berkeley-symposium-on-mathematical-statistics-and-probability/proceedings-of-the-fifth-berkeley-symposium-on-mathematical-statistics-and/Chapter/Some-methods-for-classification-and-analysis-of-multivariate-observations/bsmsp/1200512992?tab=ChapterArticleLink",933
-"ivbhatt","10.1145/3338906.3338972","tool","Antlr",43,"10.5555/2501720",,732
-"ivbhatt","10.1145/3338906.3338972","method","HMC",39,,"https://arxiv.org/abs/1206.1901",734
-"ivbhatt","10.1145/3338906.3338972","method","NUTS",22,"10.5555/2627435.2638586",,734
-"ivbhatt","10.1145/3338906.3338972","method","ADVI",29,"10.5555/2969239.2969303",,734
-"ivbhatt","10.1145/3338906.3338972","method","SVI",27,,"https://arxiv.org/abs/1312.6114",734
-"ivbhatt","10.1145/3338906.3338972","dataset","Stan’s public repository",48,,"https://github.com/stan-dev/example-models",735
-"ivbhatt","10.1145/3338906.3338972","dataset","6 bug-revealing programs",10,"10.1145/3236024.3236057",,735
-"ivbhatt","10.1145/3338906.3338972","metric","SSR",2,"10.1145/2970276.2970361",,735
-"ivbhatt","10.1145/3338906.3338927","tool","FastTrack",20,"10.1145/1542476.1542490",,713
-"ivbhatt","10.1145/3338906.3338927","tool","Helgrind",3,,"http://valgrind.org/docs/manual/hg-manual.html",713
-"ivbhatt","10.1145/3338906.3338927","tool","Helgrind",39,"10.1145/1250734.1250746",,713
-"ivbhatt","10.1145/3338906.3338927","tool","ThreadSanitizer",49,"10.1145/1791194.1791203",,713
-"ivbhatt","10.1145/3338906.3338927","tool","UFO",23,"10.1145/3180155.3180225",,713
+gh_id,paper_doi,reuse_type,comment,citation_number,reused_doi,alt_url,page_num
+ivbhatt,10.1145/3338906.3340443,method,purposive sampling,20,,https://www.wiley.com/en-us/Real+World+Research%2C+3rd+Edition-p-9781118531501,897
+ivbhatt,10.1145/3338906.3340443,method,embedded case study,21,10.1002/9781118181034,,897
+ivbhatt,10.1145/3338906.3340443,sanity_check,threats to validity,8,10.1177/1077800405284363,,902
+ivbhatt,10.1145/3338906.3340455,method,tree differencing approach,15,10.1109/TSE.2007.70731,,928
+ivbhatt,10.1145/3338906.3340455,method,heuristics are used,13,10.1145/2642937.2642982,,928
+ivbhatt,10.1145/3338906.3340455,tool,TensorFlow,1,10.5281/zenodo.4724125,,930
+ivbhatt,10.1145/3338906.3340455,method,LSTM,22,10.1162/neco.1997.9.8.1735,,930
+ivbhatt,10.1145/3338906.3340455,method,"GNMT encoder, beam search",48,,https://arxiv.org/abs/1609.08144,930
+ivbhatt,10.1145/3338906.3340455,method,SGD,9,10.5555/2999134.2999271,,930
+ivbhatt,10.1145/3338906.3340455,method,normed Bahdanau attention,3,,https://arxiv.org/abs/1409.0473,930
+ivbhatt,10.1145/3338906.3340455,metric,perplexity,4,10.5555/146680.146685,,931
+ivbhatt,10.1145/3338906.3340455,metric,BLEU,38,10.3115/1073083.1073135,,931
+ivbhatt,10.1145/3338906.3340455,method,word2vec,34,,https://arxiv.org/abs/1310.4546,933
+ivbhatt,10.1145/3338906.3340455,method,K-means,32,,https://projecteuclid.org/proceedings/berkeley-symposium-on-mathematical-statistics-and-probability/proceedings-of-the-fifth-berkeley-symposium-on-mathematical-statistics-and/Chapter/Some-methods-for-classification-and-analysis-of-multivariate-observations/bsmsp/1200512992?tab=ChapterArticleLink,933
+ivbhatt,10.1145/3338906.3338972,tool,Antlr,43,10.5555/2501720,,732
+ivbhatt,10.1145/3338906.3338972,method,HMC,39,,https://arxiv.org/abs/1206.1901,734
+ivbhatt,10.1145/3338906.3338972,method,NUTS,22,10.5555/2627435.2638586,,734
+ivbhatt,10.1145/3338906.3338972,method,ADVI,29,10.5555/2969239.2969303,,734
+ivbhatt,10.1145/3338906.3338972,method,SVI,27,,https://arxiv.org/abs/1312.6114,734
+ivbhatt,10.1145/3338906.3338972,dataset,Stan’s public repository,48,,https://github.com/stan-dev/example-models,735
+ivbhatt,10.1145/3338906.3338972,dataset,6 bug-revealing programs,10,10.1145/3236024.3236057,,735
+ivbhatt,10.1145/3338906.3338972,metric,SSR,2,10.1145/2970276.2970361,,735
+ivbhatt,10.1145/3338906.3338927,tool,FastTrack,20,10.1145/1542476.1542490,,713
+ivbhatt,10.1145/3338906.3338927,tool,Helgrind,3,,https://valgrind.org/docs/manual/hg-manual.html,713
+ivbhatt,10.1145/3338906.3338927,tool,Helgrind,39,10.1145/1250734.1250746,,713
+ivbhatt,10.1145/3338906.3338927,tool,ThreadSanitizer,49,10.1145/1791194.1791203,,713
+ivbhatt,10.1145/3338906.3338927,tool,UFO,23,10.1145/3180155.3180225,,713
+ivbhatt,10.1145/3338906.3338957,tool,SBFL,74,10.1145/3092703.3092717,,225
+ivbhatt,10.1145/3338906.3338957,method,traditional mutation testing,39,10.1145/2610384.2628053,,226
+ivbhatt,10.1145/3338906.3338957,method,MH algorithm,40,10.2307/2685466,,228
+ivbhatt,10.1145/3338906.3338957,method,"Ochiai, SBFL",7,10.1109/TAIC.PART.2007.13,,228
+ivbhatt,10.1145/3338906.3338957,dataset,GCC bug repository,3,,https://gcc.gnu.org/bugzilla/,229
+ivbhatt,10.1145/3338906.3338957,dataset,LLVM bug repository,6,,https://bugs.llvm.org,229
+ivbhatt,10.1145/3338906.3338957,tool,Clang Libtooling,1,,https://clang.llvm.org/docs/LibTooling.html,229
+ivbhatt,10.1145/3338906.3338957,tool,Gcov,4,,https://gcc.gnu.org/onlinedocs/gcc/Gcov.html,229
+ivbhatt,10.1145/3338906.3338908,tool,Lucene,1,,https://lucene.apache.org,1193
+ivbhatt,10.1145/3338906.3338937,tool,LIME for local explainability,15,10.1145/2939672.2939778,,630
+ivbhatt,10.1145/3338906.3338937,dataset,German credit data,Footnote-1,,https://archive.ics.uci.edu/ml/datasets/adult,630
+ivbhatt,10.1145/3338906.3338937,dataset,Adult census income,Footnote-2,,https://archive.ics.uci.edu/ml/datasets/bank+marketing,630
+ivbhatt,10.1145/3338906.3338937,dataset,Bank marketing,Footnote-3,,https://data.world/markmarkoh/executions-since-1977,630
+ivbhatt,10.1145/3338906.3338937,dataset,US Executions,Footnote-4,,https://www.kaggle.com/c/frauddetection/data,630
+ivbhatt,10.1145/3338906.3338937,dataset,Fraud Detection,Footnote-5,,https://www.kaggle.com/c/frauddetection/data,630
+ivbhatt,10.1145/3338906.3338937,dataset,Raw Car Rentals,Footnote-6,,https://www.yelp.com/biz/raw-car-rentals-sacramento,630
+ivbhatt,10.1145/3338906.3338908,tool,UML-RT,52,10.1007/s10270-014-0399-z,,5
+ivbhatt,10.1145/3338906.3338908,tool,Eclipse Papyrus-RT,14,,https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.664.2670&rep=rep1&type=pdf,5
+ivbhatt,10.1145/3338906.3338908,tool,Reclipse eTrice,5,,https://www.eclipse.org/etrice/,5
+ivbhatt,10.1145/3338906.3338908,tool,IBM RSA-RTE,3,,https://www-01.ibm.com/support/docview.wss?uid=swg24034299,5
+ivbhatt,10.1145/3338906.3338908,tool,HCL Rtist,7,,https://www.ibm.com/support/knowledgecenter/en/SSSHUF_8.0.1/com.ibm.rational.testrt.studio.doc/topics/troseworking.htm,5
+ivbhatt,10.1145/3338906.3338908,tool,IBM RoseRT,6,,https://www.hcltech.com/products-and-platforms/rtist,5
+ivbhatt,10.1145/3338906.3338908,tool,EMF,61,10.5555/1197540,,10
+ivbhatt,10.1145/3338906.3338908,tool,CIL,47,,https://people.eecs.berkeley.edu/~necula/Papers/cil_cc02.pdf,10
+ivbhatt,10.1145/3338906.3338908,tool,CREST,16,10.1109/ASE.2008.69,,10
+ivbhatt,10.1145/3338906.3338908,tool,Csmith,44,10.1109/ICSE.2007.41,,44
+ivbhatt,10.1145/3338906.3341184,dataset,QuixBugs,15,10.1145/3135932.3135941,,1102
+ivbhatt,10.1145/3338906.3340449,stepping stone,leverage the success of previous works,26,10.1109/TSE.2015.2500238,,938
